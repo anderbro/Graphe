@@ -1,0 +1,130 @@
+Port_départ,Port_arrivée,Trajet(h),CO2
+Marseille,Toulon,2.03,0.28
+Marseille,Nice,4.48,0.31
+Marseille,Sète,2.64,0.24
+Marseille,Bastia,5.66,0.51
+Marseille,Ajaccio,5.13,0.42
+Marseille,Le Havre,168.64,27.31
+Le Havre,Rouen,1.84,0.21
+Le Havre,Calais,7.56,1.06
+Le Havre,Dunkerque,9.05,1.35
+Le Havre,Brest,12.65,1.98
+Le Havre,Saint-Malo,6.78,0.73
+Le Havre,Granville,6.34,0.69
+Le Havre,Cherbourg,1.48,0.08
+Le Havre,Boulogne,6.89,0.82
+Le Havre,Marseille,168.64,19.89
+Le Havre,Caen,0.78,0.04
+Dunkerque,Caen,10.56,1.13
+Dunkerque,Calais,0.56,0.02
+Dunkerque,Cherbourg,8.56,1.42
+Dunkerque,Le Havre,7.16,1.19
+Dunkerque,Rouen,6.89,1.05
+Dunkerque,Saint-Malo,15.96,3.12
+Dunkerque,Granville,14.84,2.97
+Dunkerque,Brest,35.45,7.24
+Dunkerque,Boulogne,2.1,0.12
+Calais,Caen,15.12,4.01
+Calais,Dunkerque,0.56,0.07
+Calais,Boulogne,1.2,0.14
+Calais,Rouen,9.65,2.18
+Calais,Cherbourg,14.84,2.53
+Calais,Le Havre,7.56,1.78
+Nantes,Bordeaux,15.12,3.90
+Nantes,La Rochelle,5.46,1.20
+Nantes,Bayonne,18.15,5.33
+Nantes,Lorient,3.48,0.21
+Nantes,Vannes,2.13,0.18
+Nantes,Saint-Jean-de-Luz,22.15,6.26
+Nantes,Brest,7.46,0.85
+Nantes,Quimper,5.18,0.71
+Rouen,Caen,2.07,0.34
+Rouen,Dunkerque,9.16,1.62
+Rouen,Calais,7.43,1.10
+Rouen,Le Havre,1.87,0.32
+Rouen,Cherbourg,4.56,1.16
+Rouen,Saint-Malo,7.93,2.03
+Rouen,Granville,7.03,1.68
+Bordeaux,Bayonne,9.64,2.61
+Bordeaux,Saint-Jean-de-Luz,10.98,2.94
+Bordeaux,La Rochelle,4.15,0.62
+Bordeaux,Nantes,15.12,4.56
+Bordeaux,Quimper,26.34,6.12
+Bordeaux,Dunkerque,35.49,8.46
+Bordeaux,Lorient,21.26,6.01
+La Rochelle,Bordeaux,4.15,0.53
+La Rochelle,Bayonne,6.36,0.81
+La Rochelle,Nantes,5.46,0.35
+La Rochelle,Brest,8.65,0.99
+La Rochelle,Lorient,7.16,1.12
+Bayonne,Saint-Jean-de-Luz,0.89,0.01
+Bayonne,Bordeaux,9.64,1.32
+Bayonne,La Rochelle,6.36,1.01
+Bayonne,Nantes,18.15,3.29
+Sète,Marseille,2.64,0.13
+Sète,Bastia,10.65,2.84
+Sète,Nice,7.16,1.93
+Sète,Toulon,4.34,0.47
+Sète,Ajaccio,7.68,1.58
+Saint-Jean-de-Luz,Bayonne,0.89,0.02
+Saint-Jean-de-Luz,Bordeaux,10.98,1.79
+Saint-Jean-de-Luz,La Rochelle,8.65,1.35
+Caen,Le Havre,0.8,0.06
+Caen,Cherbourg,2.38,0.27
+Caen,Granville,7.9,1.14
+Caen,Saint-Malo,8.86,1.37
+Caen,Rouen,1.29,0.30
+Cherbourg,Le Havre,1.48,0.27
+Cherbourg,Rouen,4.56,0.86
+Cherbourg,Calais,9.46,1.57
+Cherbourg,Dunkerque,10.91,1.72
+Cherbourg,Granville,3.49,0.34
+Cherbourg,Saint-Malo,4.98,0.59
+Lorient,Nantes,3.48,0.42
+Lorient,Vannes,1.2,0.07
+Lorient,Quimper,0.39,0.01
+Lorient,Brest,4.13,0.99
+Lorient,La Rochelle,7.16,1.84
+Bastia,Ajaccio,4.13,0.79
+Bastia,Marseille,5.66,1.31
+Bastia,Sète,10.65,2.10
+Bastia,Nice,3.92,1.26
+Brest,Quimper,3.03,0.78
+Brest,Nantes,7.46,2.11
+Brest,Lorient,4.13,1.02
+Brest,La Rochelle,8.65,2.63
+Saint-Malo,Granville,0.96,0.16
+Saint-Malo,Cherbourg,4.98,1.26
+Saint-Malo,Le Havre,6.78,1.88
+Saint-Malo,Caen,8.68,2.21
+Saint-Malo,Brest,7.23,2.15
+Ajaccio,Bastia,4.13,0.96
+Ajaccio,Sète,7.68,1.87
+Ajaccio,Marseille,5.13,1.18
+Ajaccio,Toulon,2.5,0.66
+Ajaccio,Nice,4.98,0.73
+Toulon,Marseille,2.03,0.49
+Toulon,Bastia,5.08,0.93
+Toulon,Nice,5.48,1.02
+Nice,Bastia,3.92,0.87
+Nice,Ajaccio,4.98,1.01
+Nice,Marseille,4.48,1.11
+Nice,Toulon,5.48,1.42
+Nice,Sète,7.16,1.90
+Nice,Bordeaux,84.62,12.42
+Granville,Caen,7.9,2.01
+Granville,Cherbourg,3.49,0.63
+Granville,Le Havre,6.34,1.21
+Granville,Saint-Malo,0.96,0.05
+Granville,Brest,6.95,1.36
+Vannes,Lorient,1.2,0.11
+Vannes,Nantes,2.13,0.20
+Vannes,Quimper,3.73,0.63
+Vannes,Brest,5.31,0.87
+Quimper,Brest,3.03,0.49
+Quimper,Nantes,5.17,0.91
+Quimper,Vannes,3.73,0.39
+Boulogne,Calais,1.2,0.07
+Boulogne,Dunkerque,2.1,0.19
+Boulogne,Rouen,4.51,0.57
+Boulogne,Le Havre,6.89,1.26
